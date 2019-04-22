@@ -5,7 +5,7 @@ import javax.swing.JFrame;
 public class Demo_01 {
 
 	public static void main(String[] args){
-		//888+777+999
+		//888+777
 		//鎼缓绐楀彛绫�
 		JFrame jf = new JFrame();
 		//璁剧疆澶у皬
