@@ -5,7 +5,7 @@ import javax.swing.JFrame;
 public class Demo_01 {
 
 	public static void main(String[] args){
-		//222
+		//333
 		//搭建窗口类
 		JFrame jf = new JFrame();
 		//设置大小
