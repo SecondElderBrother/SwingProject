@@ -5,16 +5,16 @@ import javax.swing.JFrame;
 public class Demo_01 {
 
 	public static void main(String[] args){
-		
-		//´î½¨´°¿ÚÀà
+		//111
+		//æ­å»ºçª—å£ç±»
 		JFrame jf = new JFrame();
-		//ÉèÖÃ´óĞ¡
+		//è®¾ç½®å¤§å°
 		jf.setSize(400, 400);
-		//ÉèÖÃÎ»ÖÃ
+		//è®¾ç½®ä½ç½®
 		jf.setLocation(100, 100);
-		//ÉèÖÃ¹Ø±Õ·½Ê½
+		//è®¾ç½®å…³é—­æ–¹å¼
 		jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		//ÉèÖÃ´°ÌåÏÔÊ¾
+		//è®¾ç½®çª—ä½“æ˜¾ç¤º
 		jf.setVisible(true);
 		
 	}
